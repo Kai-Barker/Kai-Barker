@@ -125,7 +125,7 @@ public class MyProfile : Developer
 ---
 
 <p align="center">
-  <img src="assets/my-project-1-banner.png" alt="Banner for Project 1" width="800">
+  <img width="1280" height="480" alt="ReadyUpBanner" src="https://github.com/user-attachments/assets/1d0498ea-17d6-4e20-ba33-05867f4e6b85" />
 </p>
 
 ## ReadyUP
