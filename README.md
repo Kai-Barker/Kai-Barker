@@ -1,4 +1,4 @@
-## Hey There, I'm Kai Barker
+## Hey There, I'm Kai Barker (╯°□°）╯︵ ┻━┻
 <p align="center">
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   &nbsp;&nbsp;&nbsp;
@@ -68,7 +68,7 @@ public class MyProfile : Developer
     </pre>
 
 
-# My Tech Stack
+# My Tech Stack ヾ(⌐■_■)ノ♪
 ### Languages and Frameworks
 ---
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -248,3 +248,5 @@ public class MyProfile : Developer
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Get In Touch ☚(ﾟヮﾟ☚)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-barker-55945034a/) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:241065@virtualwindow.co.za) 
