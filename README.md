@@ -15,7 +15,7 @@
 const me = {
   name: "Your Name",
   title: "Student / Developer",
-  description: "I'm a 2nd year Web and Game Developer who absolutely loves anything code related."
+  description: "I'm a 3rd year Web and Game Developer who absolutely loves anything code related."
 
   skills: [
     "React", "Node.js", "MongoDB", "Express",
@@ -24,8 +24,8 @@ const me = {
   ],
 
   currentProjects: [
-    "🚀 A SERN-stack looking for group app for gamers",
-    "🤖 A bar system in a restaurant simulation game"
+    "🚀 A Modern Application Stack (including PostgreSQL, C#, React, Electron.js) backend system for an industrial factory",
+    "🤖 A Mobile digital pet game where you take care of a world devourer"
   ]
 };
 
