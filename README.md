@@ -257,4 +257,4 @@ public class MyProfile : Developer
 
 # Get In Touch ☚(ﾟヮﾟ☚)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-barker-55945034a/) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:241065@virtualwindow.co.za) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-barker-55945034a/) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaieddiebarker@gmail.com) 
