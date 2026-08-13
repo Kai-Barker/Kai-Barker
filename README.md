@@ -247,13 +247,12 @@ public class MyProfile : Developer
 * [🔗Live Demo](https://drive.google.com/file/d/12RB3mOLNa-2yqmkvpmaWA6_Tth0_FXqp/view?usp=sharing)
 
 # Some Stats ( ━☞´◔‿ゝ◔`)━☞
-[![Kai's GitHub stats](https://github-stats-extended.vercel.app/api?username=Kai-Barker)](https://github.com/stats-organization/github-stats-extended)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kai-Barker&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai-Barker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-stats-extended.vercel.app/api?username=Kai-Barker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Kai-Barker&theme=dark&hide_border=false)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=Kai-Barker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kai-Barker&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Get In Touch ☚(ﾟヮﾟ☚)
