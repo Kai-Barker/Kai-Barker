@@ -246,7 +246,7 @@ public class MyProfile : Developer
 * [🔗Live Demo](https://drive.google.com/file/d/12RB3mOLNa-2yqmkvpmaWA6_Tth0_FXqp/view?usp=sharing)
 
 # Some Stats ( ━☞´◔‿ゝ◔`)━☞
-![](https://github-readme-stats.vercel.app/api?username=Kai-Barker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![Kai's GitHub stats](https://github-stats-extended.vercel.app/api?username=Kai-Barker)](https://github.com/stats-organization/github-stats-extended)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kai-Barker&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai-Barker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
