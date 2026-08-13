@@ -54,13 +54,14 @@ public class MyProfile : Developer
 
     public List<string> FavoriteFranchises = new List<string> {
         "League of Legends",
+        "Overwatch",
         "Cyberpunk",
         "Monster Hunter"
     };
       
     public enum ClashOfClansLifeSkills
     {
-        ImTownHall17,
+        ImTownHall18,
         ActivelyPracticePatience,
         PrioritiseEfficiencyOverShortcuts,
         PersistentInAchievingTheBest,
