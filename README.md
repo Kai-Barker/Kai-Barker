@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Kai-Barker.png" width="140" alt="Kai Barker" />
-</p>
-
 <h2 align="center">Hey There, I'm Kai Barker (╯°□°）╯︵ ┻━┻</h2>
 <p align="center"><strong>3rd year Interactive Development student · Full-stack web, mobile & game developer</strong></p>
 
