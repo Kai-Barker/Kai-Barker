@@ -1,4 +1,10 @@
-## Hey There, I'm Kai Barker (╯°□°）╯︵ ┻━┻
+<p align="center">
+  <img src="https://github.com/Kai-Barker.png" width="140" alt="Kai Barker" />
+</p>
+
+<h2 align="center">Hey There, I'm Kai Barker (╯°□°）╯︵ ┻━┻</h2>
+<p align="center"><strong>3rd year Interactive Development student · Full-stack web, mobile & game developer</strong></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   &nbsp;&nbsp;&nbsp;
@@ -10,28 +16,26 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
-
-  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
 <pre>
 // about-me.js
 
 const me = {
-  name: "Your Name",
+  name: "Kai Barker",
   title: "Student / Developer",
-  description: "I'm a 3rd year Web and Game Developer who absolutely loves anything code related."
+  description: "I'm a 3rd year Web and Game Developer who absolutely loves anything code related.",
 
   skills: [
-    "React", "Node.js", "MongoDB", "Express",
-    "C#", "Unity", "C",
-    "Arduino", "ESP32", "Figma"
+    "React", "React Native", "TypeScript", "Node.js", "Express",
+    "C#", "ASP.NET Core", "MySQL", "PostgreSQL", "Firebase",
+    "Unity", "C", "Arduino", "ESP32", "Figma"
   ],
 
   currentProjects: [
-    "🚀 A Modern Application Stack (including PostgreSQL, C#, React, Electron.js) backend system for an industrial factory",
-    "🤖 A Mobile digital pet game where you take care of a world devourer"
+    "🧠 Questack: an AI-driven platform that teaches you to read and understand code, not just write it",
+    "🪓 A multiplayer horror lumbering game"
   ]
 };
 
@@ -52,7 +56,7 @@ public class MyProfile : Developer
         "Trying to center a div"
     };
 
-    public List<string> FavoriteFranchises = new List<string> {
+    public List&lt;string&gt; FavoriteFranchises = new List&lt;string&gt; {
         "League of Legends",
         "Overwatch",
         "Cyberpunk",
@@ -72,7 +76,7 @@ public class MyProfile : Developer
     }
 
 }
-    </pre>
+</pre>
 
 
 # My Tech Stack ヾ(⌐■_■)ノ♪
@@ -81,44 +85,77 @@ public class MyProfile : Developer
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=1572B6)
-![TypeScipt](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
-### Databases
+### Databases and Backend Services
 ---
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Aiven](https://img.shields.io/badge/Aiven-FF3554?style=for-the-badge&logo=aiven&logoColor=white)
+
+### AI
+---
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### UI/UX
 ---
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![MUI X](https://img.shields.io/badge/MUI%20X-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Reanimated](https://img.shields.io/badge/Reanimated-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge&logo=emotion&logoColor=white)
-![React Toastify](https://img.shields.io/badge/React_Toastify-8758H6?style=for-the-badge&logo=react-toastify&logoColor=white)
+![React Toastify](https://img.shields.io/badge/React_Toastify-F2A900?style=for-the-badge&logo=react&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
 
 ### Tools and Libraries
 ---
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![date-fns](https://img.shields.io/badge/date--fns-6136C6?style=for-the-badge&logo=date-fns&logoColor=white)
 ![Day.js](https://img.shields.io/badge/Day.js-FF69B4?style=for-the-badge&logo=dayjs&logoColor=white)
 
+### Testing
+---
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Moq](https://img.shields.io/badge/Moq-4623B7?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+### Deployment and DevOps
+---
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ### Hardware & IoT
 ---
@@ -130,121 +167,151 @@ public class MyProfile : Developer
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
-# My 2025 Projects (✪‿✪)ノ
+# My 2026 Portfolio Projects (✪‿✪)ノ
 ---
 
+## Questack
+
+<!-- BANNER PLACEHOLDER: swap the src below for the Questack banner (1280 x 480) -->
 <p align="center">
-  <img width="1280" height="480" alt="ReadyUpBanner" src="https://github.com/user-attachments/assets/1d0498ea-17d6-4e20-ba33-05867f4e6b85" />
+  <img width="1280" alt="Questack banner" src="https://placehold.co/1280x480/0d1117/e6edf3/png?text=Questack" />
 </p>
 
-## ReadyUP
-> ReadyUP is a full stack "Looking For Group" (LFG) web application with a focus on connecting gamers to play their favourite video games with other players. No more bad randoms, only minor misplays from very skilled friends. Finding the right teammates for your competitive or casual play style can be difficult and ReadyUP aims to solve that issue by allowing users to create posts to find others that seek a similar experience. ReadyUP is a like the gathering hub where you can find, join or create groups for your games.
-
-**Key Features:**
-* Full LFG Post Management: Users can create, browse, and join "Looking For Group" posts with full CRUD (Create, Read, Update, Delete) functionality.
-* Game Category Filtering: The homepage organizes games into categories, allowing users to easily find and create posts for specific titles.
-* Personalized "My Posts" Dashboard: A dedicated section for users to view and manage all the posts they have created or joined.
-* Customizable User Profiles: Users can edit their profiles to add their primary gaming platform and preferred communication methods (e.g., Discord, Xbox Live Gamertag).
-* Friends List: A "friends" system allows users to add other players and easily connect for future gaming sessions.
-* Admin Panel: A secure admin-only panel with privileges to manage site content, including adding new game categories and deleting inappropriate posts.
-* Guest Browsing: Non-registered users can browse posts, encouraging them to sign up.
-
-**Tech Stack:**
-* Frontend:
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-ReactBootstrap-41E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=white)
-![ReactRouter](https://img.shields.io/badge/-ReactRouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![AXIOS](https://img.shields.io/badge/-axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![MUI](https://img.shields.io/badge/-material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-* Backend:
-
-![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-* Database:
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-*  Authentication:
-
-![BCrypt](https://img.shields.io/badge/-BCRYPT-000000?style=for-the-badge&logo=bcrypt&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-*  File Storage:
-
-![Cloudinary](https://img.shields.io/badge/Cloudinary-007FFF?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-**Links:**
-* [🔗View Repository](https://github.com/Kai-Barker/DV200_S2_ReadyUP)
-* [🔗Live Demo](https://drive.google.com/file/d/1jteR_gssTpy4qVp2O5urMd0dseb1GlMZ/view?usp=sharing)
-
-
-
-
-## HitMeUp
-
-<p align="center">
-  <img width="1280" height="480" alt="HitMeUp_banner" src="https://github.com/user-attachments/assets/34b57742-9e0e-45f7-a55a-c22e941850c4" />
-</p>
-
-> Hit Me Up is a fictional, dark-humored full-stack web application designed as an underground hitman-for-hire e-commerce network. Users can create secure accounts, log in, and browse or “book” hitmen services or purchase weapons. All wrapped in an edgy, satirical aesthetic.
+> **AI-driven web application.** Questack teaches programmers to **read and understand code**, not just write it. Most of a developer's day is spent reading code someone else wrote, and AI assistants make it easy to skip that skill entirely. Questack trains it instead, wrapped in a sci-fi campaign: languages are *sectors*, lessons are *quests* and bugs are an alien *Swarm*.
 >
-> The project was developed to demonstrate advanced full-stack web development capabilities including authentication, API integration, and UI/UX best practices. Despite its humorous premise, it serves as a professional showcase of full-stack architecture and secure design workflows.
+> The **Ship's AI** (Google Gemini) acts as a mentor. It marks answers, gives tiered hints and adapts its explanations to the learner's level, but it **never writes the solution for you**.
 
 **Key Features:**
-* Secure Authentication System: Full user registration and login functionality with encrypted credentials.
-* Dynamic Routing & API Integration: Modular structure with seamless data handling between frontend and backend.
-* Interactive Marketplace: Fictional listing system for hitmen and weapons using mock data.
-* Edgy UI/UX Design: Dark, underground aesthetic balanced with clean, responsive UI components.
-* Database Management: MongoDB and Mongoose integration for persistent data storage.
-* Error Handling & Validation: Input validation and backend error feedback for a smooth user experience.
+* Three quest types: explain a piece of code in your own words, hunt the bug and explain the fix, or decode code section by section.
+* AI marking against an admin-written answer key, with Cadet, Pilot and Commander explanation levels.
+* Tiered hints and a code-aware AI chat that guides without giving the answer away.
+* XP, levels, streaks, insignia and unlockable gear to keep learners coming back.
+* Admin console to write and publish quests, manage pilots and monitor AI usage.
+* Rate-limited AI routes, httpOnly session cookies and automatic fallback between Gemini models.
 
 **Tech Stack:**
 * Frontend:
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ReactBootstrap](https://img.shields.io/badge/-ReactBootstrap-41E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=white)
-![ReactRouter](https://img.shields.io/badge/-ReactRouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+![React](https://img.shields.io/badge/-React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS%20v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 
 * Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express%205-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 * Database:
-![MongoDB](https://img.shields.io/badge/-Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-*  Authentication:
-![BCrypt](https://img.shields.io/badge/-BCRYPT-000000?style=for-the-badge&logo=bcrypt&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL%208-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Aiven](https://img.shields.io/badge/-Aiven-FF3554?style=for-the-badge&logo=aiven&logoColor=white)
+
+* AI:
+
+![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+* Testing and Hosting:
+
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 **Links:**
-* [🔗View Repository](https://github.com/Great-Minds-Technologies/hit-me-up)
-* [🔗Live Demo](https://drive.google.com/file/d/18gUZrLTv2NoHnUCgmJriBdeoa2ODZp6C/view?usp=sharing)
+* [🔗View Repository](https://github.com/Kai-Barker/Questack)
+* [🚀Launch Questack](https://www.questack.co.za)
+* [🔗Demo Video](https://drive.google.com/file/d/1yXvpMrbr_TpMaUY1c12DS4n6b9p2PyLk/view?usp=sharing)
 
-## Turn1Data
+## GardenGrown
 
+<!-- BANNER PLACEHOLDER: swap the src below for the GardenGrown banner (1280 x 480) -->
 <p align="center">
-  <img width="1280" height="480" alt="turn1_data_banner" src="https://github.com/user-attachments/assets/ae5088d1-5993-458c-aef1-99833fec4c62" />
+  <img width="1280" alt="GardenGrown banner" src="https://placehold.co/1280x480/0d1117/e6edf3/png?text=GardenGrown" />
 </p>
 
->Turn1 Data is a js react web application built using the JolpicaF1 API which is a database that stores a variety of data related to the motorsport Formula1. This application leverages the api to provide you detailed statistics about a drivers wins, pole positions, experience, WDC wins and more. All these stats are visually represented to you by graphs to provide you with the best insight possible.
+> **Mobile application.** GardenGrown is a stress-reduction app built around one idea: *grow at your own pace*. Instead of guided meditations that demand your full attention, it offers a passive, creative outlet: a digital zen garden you arrange however you like.
+>
+> Everything is designed for **one hand only**, so you can unwind on the couch or in bed with a thumb. There are no timers, no scores and no fail states. Plants grow from seeds when watered, keep growing while the app is closed and never die.
+
+**Key Features:**
+* Drag-and-drop garden building on a snapping 8 x 16 grid, with green and red drop previews.
+* Growth stages and watering: seeds become saplings and then mature plants, and growth continues while you're away.
+* Terrain painting with grass, sand and water on its own layer, plus pinch-to-zoom up to 3x.
+* Multiple saved gardens, persisted to Firestore so you pick up exactly where you left off.
+* Haptic feedback for picking up, watering, rejected actions and deleting.
+* Dashboard stats, a replayable onboarding tour and profile management with photo upload.
 
 **Tech Stack:**
+* Frontend:
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NativeWind](https://img.shields.io/badge/-NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Reanimated](https://img.shields.io/badge/-Reanimated-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+* Backend / Services:
+
+![Firebase Auth](https://img.shields.io/badge/-Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Storage](https://img.shields.io/badge/-Firebase%20Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Links:**
-* [🔗View Repository](https://github.com/Kai-Barker/formative-one-Turn1Data)
-* [🔗Live Demo](https://drive.google.com/file/d/12RB3mOLNa-2yqmkvpmaWA6_Tth0_FXqp/view?usp=sharing)
+* [🔗View Repository](https://github.com/Kai-Barker/GardenGrown)
+* [🔗Demo Video](https://drive.google.com/file/d/1eaEihzWvE53hKCLBY3YajhB5FA6D2Amp/view?usp=sharing)
+
+## Artifax
+
+<p align="center">
+  <img width="1280" alt="Artifax banner" src="https://raw.githubusercontent.com/I-Know-What-You-Committed-Last-Summer/Artifax/HEAD/frontend/src/assets/ReadmeImg/Artifax.png" />
+</p>
+
+> **Desktop application (team project).** Artifax is a simple, reliable inventory and production management system for an industrial factory. It tracks base materials and crafted items across multiple warehouse locations, manages production timelines through a crafting queue and controls access with user roles. It ships as a Windows desktop app built with Electron, backed by an ASP.NET Core API.
+
+**My Contribution:**
+* Designed the backend data models and relationships (branches, materials, products, orders) with Entity Framework Core and PostgreSQL.
+* Built the DTOs and CRUD controllers for items, item ingredients, blueprints and branch capacity.
+* Implemented crafting logic, including expediting orders and creating stock from completed orders.
+* Wrote the xUnit test suite for the controllers, using Moq and EF Core's in-memory database.
+* Containerised the API with Docker for deployment to Render, and connected the React frontend to the backend.
+
+**Key Features:**
+* Dashboard with low-stock alerts, active crafting jobs and the order queue.
+* Crafting queue where orders can be paused, cancelled or expedited.
+* Blueprint management for defining material requirements.
+* Admin-only analytics and user management.
+
+**Tech Stack:**
+* Frontend:
+
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
+
+* Backend:
+
+![.NET](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/-EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+* Testing and Deployment:
+
+![xUnit](https://img.shields.io/badge/-xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Moq](https://img.shields.io/badge/-Moq-4623B7?style=for-the-badge)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+**Links:**
+* [🔗View Repository](https://github.com/I-Know-What-You-Committed-Last-Summer/Artifax)
+* [📦Download the Latest Release](https://github.com/I-Know-What-You-Committed-Last-Summer/Artifax/releases/latest)
 
 # Some Stats ( ━☞´◔‿ゝ◔`)━☞
 ![](https://github-stats-extended.vercel.app/api?username=Kai-Barker&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -252,9 +319,8 @@ public class MyProfile : Developer
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=Kai-Barker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kai-Barker&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile views](https://komarev.com/ghpvc/?username=Kai-Barker&style=for-the-badge&color=blueviolet)
 
 # Get In Touch ☚(ﾟヮﾟ☚)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-barker-55945034a/) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaieddiebarker@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-barker-55945034a/) [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaieddiebarker@gmail.com)
