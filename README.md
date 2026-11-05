@@ -167,9 +167,8 @@ public class MyProfile : Developer
 
 ## Questack
 
-<!-- BANNER PLACEHOLDER: swap the src below for the Questack banner (1280 x 480) -->
 <p align="center">
-  <img width="1280" alt="Questack banner" src="https://placehold.co/1280x480/0d1117/e6edf3/png?text=Questack" />
+  <img width="1280" alt="Questack banner" src="./assets/QuestackBanner.webp" />
 </p>
 
 > **AI-driven web application.** Questack teaches developers to **read and understand code**, not just write it. Most of a developer's day is spent reading code someone else wrote, and AI assistants make it easy to skip that skill entirely. Questack trains it instead, wrapped in a sci-fi campaign: languages are *sectors*, lessons are *quests* and bugs are an alien *Swarm*.
@@ -223,9 +222,8 @@ public class MyProfile : Developer
 
 ## GardenGrown
 
-<!-- BANNER PLACEHOLDER: swap the src below for the GardenGrown banner (1280 x 480) -->
 <p align="center">
-  <img width="1280" alt="GardenGrown banner" src="https://placehold.co/1280x480/0d1117/e6edf3/png?text=GardenGrown" />
+  <img width="1280" alt="GardenGrown banner" src="./assets/GardenGrownBanner.webp" />
 </p>
 
 > **Mobile application.** GardenGrown is a stress-reduction app built around one idea: *grow at your own pace*. Instead of guided meditations that demand your full attention, it offers a passive, creative outlet: a digital zen garden you arrange however you like.
@@ -262,7 +260,7 @@ public class MyProfile : Developer
 ## Artifax
 
 <p align="center">
-  <img width="1280" alt="Artifax banner" src="https://raw.githubusercontent.com/I-Know-What-You-Committed-Last-Summer/Artifax/HEAD/frontend/src/assets/ReadmeImg/Artifax.png" />
+  <img width="1280" alt="Artifax banner" src="./assets/ArtifaxBanner.png" />
 </p>
 
 > **Desktop application (team project).** Artifax is a simple, reliable inventory and production management system for an industrial factory. It tracks base materials and crafted items across multiple warehouse locations, manages production timelines through a crafting queue and controls access with user roles. It ships as a Windows desktop app built with Electron, backed by an ASP.NET Core API.
