@@ -172,7 +172,7 @@ public class MyProfile : Developer
   <img width="1280" alt="Questack banner" src="https://placehold.co/1280x480/0d1117/e6edf3/png?text=Questack" />
 </p>
 
-> **AI-driven web application.** Questack teaches programmers to **read and understand code**, not just write it. Most of a developer's day is spent reading code someone else wrote, and AI assistants make it easy to skip that skill entirely. Questack trains it instead, wrapped in a sci-fi campaign: languages are *sectors*, lessons are *quests* and bugs are an alien *Swarm*.
+> **AI-driven web application.** Questack teaches developers to **read and understand code**, not just write it. Most of a developer's day is spent reading code someone else wrote, and AI assistants make it easy to skip that skill entirely. Questack trains it instead, wrapped in a sci-fi campaign: languages are *sectors*, lessons are *quests* and bugs are an alien *Swarm*.
 >
 > The **Ship's AI** (Google Gemini) acts as a mentor. It marks answers, gives tiered hints and adapts its explanations to the learner's level, but it **never writes the solution for you**.
 
@@ -270,7 +270,7 @@ public class MyProfile : Developer
 **My Contribution:**
 * Designed the backend data models and relationships (branches, materials, products, orders) with Entity Framework Core and PostgreSQL.
 * Built the DTOs and CRUD controllers for items, item ingredients, blueprints and branch capacity.
-* Implemented crafting logic, including expediting orders and creating stock from completed orders.
+* Assisted with items and inventory implementation in the frontend
 * Wrote the xUnit test suite for the controllers, using Moq and EF Core's in-memory database.
 * Containerised the API with Docker for deployment to Render, and connected the React frontend to the backend.
 
