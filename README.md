@@ -121,7 +121,6 @@ public class MyProfile : Developer
 ![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge&logo=emotion&logoColor=white)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-F2A900?style=for-the-badge&logo=react&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
 
 ### Tools and Libraries
 ---
