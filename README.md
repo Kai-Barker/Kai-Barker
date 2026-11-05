@@ -162,7 +162,7 @@ public class MyProfile : Developer
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
-# My 2026 Portfolio Projects (✪‿✪)ノ
+# My 2026 Projects (✪‿✪)ノ
 ---
 
 ## Questack
