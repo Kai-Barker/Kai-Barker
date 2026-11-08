@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.svg" alt="Kai Barker — 3rd Year Interactive Development" width="100%" />
+</p>
 <h2 align="center">Hey There, I'm Kai Barker (╯°□°）╯︵ ┻━┻</h2>
 <p align="center"><strong>3rd year Interactive Development student · Full-stack web, mobile & game developer</strong></p>
 
