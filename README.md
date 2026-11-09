@@ -173,7 +173,7 @@ public class MyProfile : Developer
   <img width="1280" alt="Questack banner" src="./assets/QuestackBanner.webp" />
 </p>
 
-> **AI-driven web application.** Questack teaches developers to **read and understand code**, not just write it. Most of a developer's day is spent reading code someone else wrote, and AI assistants make it easy to skip that skill entirely. Questack trains it instead, wrapped in a sci-fi campaign: languages are *sectors*, lessons are *quests* and bugs are an alien *Swarm*.
+> **AI-driven web application (solo project).** Questack teaches developers to **read and understand code**, not just write it. Most of a developer's day is spent reading code someone else wrote, and AI assistants make it easy to skip that skill entirely. Questack trains it instead, wrapped in a sci-fi campaign: languages are *sectors*, lessons are *quests* and bugs are an alien *Swarm*.
 >
 > The **Ship's AI** (Google Gemini) acts as a mentor. It marks answers, gives tiered hints and adapts its explanations to the learner's level, but it **never writes the solution for you**.
 
@@ -228,7 +228,7 @@ public class MyProfile : Developer
   <img width="1280" alt="GardenGrown banner" src="./assets/GardenGrownBanner.webp" />
 </p>
 
-> **Mobile application.** GardenGrown is a stress-reduction app built around one idea: *grow at your own pace*. Instead of guided meditations that demand your full attention, it offers a passive, creative outlet: a digital zen garden you arrange however you like.
+> **Mobile application (solo project).** GardenGrown is a stress-reduction app built around one idea: *grow at your own pace*. Instead of guided meditations that demand your full attention, it offers a passive, creative outlet: a digital zen garden you arrange however you like.
 >
 > Everything is designed for **one hand only**, so you can unwind on the couch or in bed with a thumb. There are no timers, no scores and no fail states. Plants grow from seeds when watered, keep growing while the app is closed and never die.
 
@@ -268,11 +268,14 @@ public class MyProfile : Developer
 > **Desktop application (team project).** Artifax is a simple, reliable inventory and production management system for an industrial factory. It tracks base materials and crafted items across multiple warehouse locations, manages production timelines through a crafting queue and controls access with user roles. It ships as a Windows desktop app built with Electron, backed by an ASP.NET Core API.
 
 **My Contribution:**
-* Designed the backend data models and relationships (branches, materials, products, orders) with Entity Framework Core and PostgreSQL.
-* Built the DTOs and CRUD controllers for items, item ingredients, blueprints and branch capacity.
-* Assisted with items and inventory implementation in the frontend
-* Wrote the xUnit test suite for the controllers, using Moq and EF Core's in-memory database.
+* Co-designed the ERD and data models with the team, implemented the EF Core relationships on PostgreSQL, and led the refactor to a unified Item / Item Ingredient / Branch Capacity schema.
+* Built the DTOs and CRUD endpoints for items, item ingredients, blueprints and branch capacity.
+* Moved 2FA onto Google Authenticator (QR setup, stored secrets), building on Mario's OTP flow and pairing with Onthatile.
+* Added order expediting and automatic stock from completed orders.
+* Set up the xUnit test project and wrote the Item controller tests against an EF Core in-memory database.
 * Containerised the API with Docker for deployment to Render, and connected the React frontend to the backend.
+* Assisted with the items and inventory pages in the frontend.
+* Since submission (solo, in my fork): rebuilt the test suites to 100% backend / 98% frontend coverage, fixed expediting, and added queue reordering and per-branch low-stock alerts.
 
 **Key Features:**
 * Dashboard with low-stock alerts, active crafting jobs and the order queue.
@@ -305,6 +308,7 @@ public class MyProfile : Developer
 
 **Links:**
 * [🔗View Repository](https://github.com/I-Know-What-You-Committed-Last-Summer/Artifax)
+* [🔗View My Fork (post-submission updates)](https://github.com/Kai-Barker/Artifax)
 * [📦Download the Latest Release](https://github.com/I-Know-What-You-Committed-Last-Summer/Artifax/releases/latest)
 
 # Some Stats ( ━☞´◔‿ゝ◔`)━☞
